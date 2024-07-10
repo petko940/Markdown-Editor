@@ -11,7 +11,7 @@ function App() {
             <div className='h-[100vh] bg-slate-400'>
                 <Header />
 
-                <div className='flex justify-between w-2/3 mx-auto'>
+                <div className='flex justify-between gap-5 w-2/3 mx-auto'>
                     <div>
                         <h1>Editor</h1>
                         <Editor />
