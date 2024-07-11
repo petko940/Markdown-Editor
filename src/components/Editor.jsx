@@ -26,7 +26,7 @@ const Editor = () => {
                         html: false,
                     },
                 }}
-                className="h-[60vh]"
+                className="h-[60vh] max-lg:w-[80%]"
             />
         </>
     )
